@@ -15,6 +15,43 @@ defaults:
     values:
       layout: "post"
 
+projects:
+  - owner:
+      login: takuseno
+    name: mvc-drl
+    description: Cleanest deep reinforcement learning implementation based on Web MVC architecture with complete unit testings
+    stargazers_count: 1
+    forks_count: 1
+  - owner:
+      login: takuseno
+    name: ppo
+    description: Proximal Policy Optimization implementation with TensorFlow
+    stargazers_count: 43
+    forks_count: 8
+  - owner:
+      login: sony
+    name: nnabla
+    description: Neural Network Libraries
+    stargazers_count: 2.1k
+    forks_count: 242
+  - owner:
+      login: takuseno
+    name: unreal
+    description: UNREAL implementation with TensorFlow
+    stargazers_count: 0
+    forks_count: 0
+  - owner:
+      login: takuseno
+    name: a3c
+    description: A3C implementation with TensorFlow
+    stargazers_count: 0
+    forks_count: 0
+  - owner:
+      login: takuseno
+    name: a2c
+    description: A2C implementation with TensorFlow
+    stargazers_count: 0
+    forks_count: 0
 topics:
   - name: CSS
     web_url: https://github.com/topics/css
