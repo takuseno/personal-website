@@ -23,6 +23,24 @@
         {% include thoughts.html %}
       </div>
     {% endunless %}
+
+    {% if site.papers %}
+      <div class="my-6">
+        {% include papers.html %}
+      </div>
+    {% endif %}
+
+    {% if site.works %}
+      <div class="my-6">
+        {% include works.html %}
+      </div>
+    {% endif %}
+
+    {% if site.awards %}
+      <div class="my-6">
+        {% include awards.html %}
+      </div>
+    {% endif %}
   </div>
 {% else %}
   <div class="d-md-flex {% unless site.style == 'dark' %}border-md-bottom{% endunless %}">
@@ -47,6 +65,18 @@
         {% unless posts_total == 0 %}
           {% include thoughts.html %}
         {% endunless %}
+
+        {% if site.papers %}
+          {% include papers.html %}
+        {% endif %}
+
+        {% if site.works %}
+          {% include works.html %}
+        {% endif %}
+
+        {% if site.awards %}
+          {% include awards.html %}
+        {% endif %}
       </div>
     </div>
   </div>

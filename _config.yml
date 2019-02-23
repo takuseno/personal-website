@@ -101,3 +101,35 @@ topics:
   - name: Git
     web_url: https://github.com/topics/git
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/git/git.png
+
+works:
+  - name: SONY
+    position: Part-time Machine Learning Researcher
+    period: 2018/11 - Now
+
+  - name: GHELIA
+    position: Part-time Machine Learning Researcher
+    period: 2018/04 - Now
+
+  - name: Wantedly
+    position: Part-time Web Engineer (full stack) & Machine Learning Engineer
+    period: 2016/03 - 2018/03
+
+  - name: MatchinGood
+    position: Part-time Web Engineer (full stack)
+    period: 2014/10 - 2016/03
+
+papers:
+  - title: Takuma Seno, Kohei Okuoka, Masahiko Osawa, Michita Imai, "Adaptive Semi-autonomous Agents via Episodic Control", 6th International Conference on Human-Agent Interaction (Poster), 2018
+  - title: Takuma Seno, Masahiko Osawa, Michita Imai, "An Intrinsically Motivated Robot Explores Non-reward Environments With Output Arbitration", Annual International Conference on Biologically Inspired Cognitive Architectures, 2018
+  - title: Masahiko Osawa, Yuta Ashihara, Takuma Seno, Michita Imai, Satoshi Kurihara, Accumulator Based Arbitration Model for both Supervised Learning and Reinforcement Learning Inspired by Prefrontal Cortex, ICONIP2017.
+
+awards:
+  - title: Outstanding & AGI Prize at the forth Whole Brain Architecture Hackathon in Tokyo.
+    date: 2018/10
+  - title: Outstanding Student Prize at 80th Annual Conference of Information Processing Society of Japan in Tokyo.
+    date: 2018/03
+  - title: Outstanding Student Prize at Human-Agent Interaction Symposium for our research "Relation Between Predictive Cognition and Timing; Non-natural Language Communication Robot and Language Game" in Kanazawa.
+    date: 2017/12
+  - title: Grand Prize at the third Whole Brain Architecture Hackathon in Tokyo.
+    date: 2017/8
