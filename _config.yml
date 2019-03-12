@@ -26,8 +26,8 @@ projects:
       login: takuseno
     name: ppo
     description: Proximal Policy Optimization implementation with TensorFlow
-    stargazers_count: 43
-    forks_count: 8
+    stargazers_count: 46
+    forks_count: 9
   - owner:
       login: sony
     name: nnabla
