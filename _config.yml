@@ -20,20 +20,20 @@ projects:
       login: takuseno
     name: mvc-drl
     description: Cleanest deep reinforcement learning implementation based on Web MVC architecture with complete unit testings
-    stargazers_count: 1
+    stargazers_count: 2
     forks_count: 1
   - owner:
       login: takuseno
     name: ppo
     description: Proximal Policy Optimization implementation with TensorFlow
-    stargazers_count: 46
+    stargazers_count: 49
     forks_count: 9
   - owner:
       login: sony
     name: nnabla
     description: Neural Network Libraries
-    stargazers_count: 2.1k
-    forks_count: 242
+    stargazers_count: 2.2k
+    forks_count: 249
   - owner:
       login: takuseno
     name: unreal
@@ -42,16 +42,16 @@ projects:
     forks_count: 0
   - owner:
       login: takuseno
-    name: a3c
-    description: A3C implementation with TensorFlow
+    name: mvc-drl-nnabla
+    description: mvc-drl implementation with NNabla
     stargazers_count: 0
     forks_count: 0
   - owner:
-      login: takuseno
-    name: a2c
-    description: A2C implementation with TensorFlow
-    stargazers_count: 0
-    forks_count: 0
+      login: sony
+    name: nnabla-ext-cuda
+    description: A CUDA Extension of Neural Network Libraries
+    stargazers_count: 66
+    forks_count: 21
 
 topics:
   - name: TensorFlow
