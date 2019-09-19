@@ -20,25 +20,25 @@ projects:
       login: takuseno
     name: mvc-drl
     description: Cleanest deep reinforcement learning implementation based on Web MVC architecture with complete unit testings
-    stargazers_count: 3
+    stargazers_count: 5
     forks_count: 1
   - owner:
       login: takuseno
     name: ppo
     description: Proximal Policy Optimization implementation with TensorFlow
-    stargazers_count: 54
-    forks_count: 11
+    stargazers_count: 60
+    forks_count: 12
   - owner:
       login: sony
     name: nnabla
     description: Neural Network Libraries
-    stargazers_count: 2.2k
-    forks_count: 262
+    stargazers_count: 2.3k
+    forks_count: 270
   - owner:
       login: takuseno
     name: nnabla-drl-collections
     description: Single file deep reinforcement learning implementations written in NNabla
-    stargazers_count: 0
+    stargazers_count: 2
     forks_count: 0
   - owner:
       login: takuseno
@@ -98,6 +98,10 @@ topics:
     web_url: https://github.com/topics/c
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/c/c.png
 
+  - name: C++
+    web_url: https://github.com/topics/cpp
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png
+
   - name: Git
     web_url: https://github.com/topics/git
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/git/git.png
@@ -125,6 +129,8 @@ papers:
   - title: Masahiko Osawa, Yuta Ashihara, Takuma Seno, Michita Imai, Satoshi Kurihara, Accumulator Based Arbitration Model for both Supervised Learning and Reinforcement Learning Inspired by Prefrontal Cortex, ICONIP2017.
 
 awards:
+  - title: Best Presentation Award at the 29th Japanese Neural Network Society in Tokyo.
+    date: 2019/9
   - title: Outstanding & AGI Prize at the forth Whole Brain Architecture Hackathon in Tokyo.
     date: 2018/10
   - title: Outstanding Student Prize at 80th Annual Conference of Information Processing Society of Japan in Tokyo.
