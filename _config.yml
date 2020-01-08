@@ -20,20 +20,20 @@ projects:
       login: takuseno
     name: mvc-drl
     description: Cleanest deep reinforcement learning implementation based on Web MVC architecture with complete unit testings
-    stargazers_count: 5
+    stargazers_count: 8
     forks_count: 1
   - owner:
       login: takuseno
     name: ppo
     description: Proximal Policy Optimization implementation with TensorFlow
-    stargazers_count: 60
-    forks_count: 12
+    stargazers_count: 67
+    forks_count: 17
   - owner:
       login: sony
     name: nnabla
     description: Neural Network Libraries
     stargazers_count: 2.3k
-    forks_count: 270
+    forks_count: 273
   - owner:
       login: takuseno
     name: nnabla-drl-collections
@@ -42,15 +42,15 @@ projects:
     forks_count: 0
   - owner:
       login: takuseno
-    name: mvc-drl-nnabla
-    description: mvc-drl implementation with NNabla
-    stargazers_count: 0
+    name: cpp-dqn
+    description: Blazingly Fast Implementation of Deep Q-Network in C++ with NNabla
+    stargazers_count: 1
     forks_count: 0
   - owner:
       login: sony
     name: nnabla-ext-cuda
     description: A CUDA Extension of Neural Network Libraries
-    stargazers_count: 67
+    stargazers_count: 71
     forks_count: 22
 
 topics:
@@ -109,11 +109,11 @@ topics:
 works:
   - name: SONY
     position: Part-time Machine Learning Researcher
-    period: 2018/11 - Now
+    period: 2018/11 - Present
 
   - name: GHELIA
     position: Part-time Machine Learning Researcher
-    period: 2018/04 - Now
+    period: 2018/04 - Present
 
   - name: Wantedly
     position: Part-time Web Engineer (full stack) & Machine Learning Engineer
