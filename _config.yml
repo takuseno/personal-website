@@ -20,38 +20,38 @@ projects:
       login: takuseno
     name: mvc-drl
     description: Cleanest deep reinforcement learning implementation based on Web MVC architecture with complete unit testings
-    stargazers_count: 8
+    stargazers_count: 10
     forks_count: 1
   - owner:
       login: takuseno
     name: ppo
     description: Proximal Policy Optimization implementation with TensorFlow
-    stargazers_count: 67
+    stargazers_count: 75
     forks_count: 17
   - owner:
       login: sony
     name: nnabla
     description: Neural Network Libraries
     stargazers_count: 2.3k
-    forks_count: 273
+    forks_count: 289
   - owner:
       login: takuseno
     name: nnabla-drl-collections
     description: Single file deep reinforcement learning implementations written in NNabla
-    stargazers_count: 2
+    stargazers_count: 3
     forks_count: 0
   - owner:
       login: takuseno
     name: cpp-dqn
     description: Blazingly Fast Implementation of Deep Q-Network in C++ with NNabla
     stargazers_count: 1
-    forks_count: 0
+    forks_count: 1
   - owner:
       login: sony
     name: nnabla-ext-cuda
     description: A CUDA Extension of Neural Network Libraries
-    stargazers_count: 71
-    forks_count: 22
+    stargazers_count: 73
+    forks_count: 25
 
 topics:
   - name: TensorFlow
@@ -107,13 +107,21 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/git/git.png
 
 works:
+  - name: Sony AI Inc.
+    position: Machine Learning Engineer
+    period: 2020/10 -
+
+  - name: Okinawa Institute of Science and Technology (OIST)
+    position: Research Assistant (Neural Computation Unit)
+    period: 2020/03 - 2020/07
+
   - name: SONY
     position: Part-time Machine Learning Researcher
-    period: 2018/11 - Present
+    period: 2018/11 - 2020/07
 
   - name: GHELIA
     position: Part-time Machine Learning Researcher
-    period: 2018/04 - Present
+    period: 2018/04 - 2020/07
 
   - name: Wantedly
     position: Part-time Web Engineer (full stack) & Machine Learning Engineer
@@ -129,6 +137,8 @@ papers:
   - title: Masahiko Osawa, Yuta Ashihara, Takuma Seno, Michita Imai, Satoshi Kurihara, Accumulator Based Arbitration Model for both Supervised Learning and Reinforcement Learning Inspired by Prefrontal Cortex, ICONIP2017.
 
 awards:
+  - title: Exploratory IT Human Resources Project (MITOU Program) by Information-technology Promotion Agency (IPA), Japan.
+    date: 2020/06 - 2021/03
   - title: Best Presentation Award at the 29th Japanese Neural Network Society in Tokyo.
     date: 2019/9
   - title: Outstanding & AGI Prize at the forth Whole Brain Architecture Hackathon in Tokyo.
