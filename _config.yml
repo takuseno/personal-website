@@ -107,7 +107,7 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/git/git.png
 
 works:
-  - name: Sony AI Inc.
+  - name: Sony AI Inc
     position: Machine Learning Engineer
     period: 2020/10 -
 
@@ -115,11 +115,11 @@ works:
     position: Research Assistant (Neural Computation Unit)
     period: 2020/03 - 2020/07
 
-  - name: SONY
+  - name: Sony Corporation, R&D Center
     position: Part-time Machine Learning Researcher
     period: 2018/11 - 2020/07
 
-  - name: GHELIA
+  - name: Ghelia Inc
     position: Part-time Machine Learning Researcher
     period: 2018/04 - 2020/07
 
