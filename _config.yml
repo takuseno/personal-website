@@ -18,40 +18,40 @@ defaults:
 projects:
   - owner:
       login: takuseno
-    name: mvc-drl
-    description: Cleanest deep reinforcement learning implementation based on Web MVC architecture with complete unit testings
-    stargazers_count: 10
-    forks_count: 1
+    name: d3rlpy
+    description: Data-Driven Deep Reinforcement Learning Library as an Out-of-the-box Tool.
+    stargazers_count: 2
+    forks_count: 0
   - owner:
       login: takuseno
     name: ppo
     description: Proximal Policy Optimization implementation with TensorFlow
-    stargazers_count: 75
-    forks_count: 17
+    stargazers_count: 78
+    forks_count: 21
   - owner:
       login: sony
     name: nnabla
     description: Neural Network Libraries
     stargazers_count: 2.3k
-    forks_count: 289
+    forks_count: 291
   - owner:
       login: takuseno
-    name: nnabla-drl-collections
-    description: Single file deep reinforcement learning implementations written in NNabla
-    stargazers_count: 3
+    name: d4rl-pybullet 
+    description: Datasets for Data-Driven Deep Reinforcement Learning with PyBullet environments
+    stargazers_count: 6
     forks_count: 0
   - owner:
       login: takuseno
-    name: cpp-dqn
-    description: Blazingly Fast Implementation of Deep Q-Network in C++ with NNabla
-    stargazers_count: 1
-    forks_count: 1
+    name: d4rl-atari
+    description: Datasets for Data-Driven Deep Reinforcement Learning with Atari (wrapper for datasets released by Google)
+    stargazers_count: 5
+    forks_count: 0
   - owner:
       login: sony
     name: nnabla-ext-cuda
     description: A CUDA Extension of Neural Network Libraries
-    stargazers_count: 73
-    forks_count: 25
+    stargazers_count: 75
+    forks_count: 26
 
 topics:
   - name: TensorFlow
