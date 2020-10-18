@@ -20,38 +20,38 @@ projects:
       login: takuseno
     name: d3rlpy
     description: Data-Driven Deep Reinforcement Learning Library as an Out-of-the-box Tool.
-    stargazers_count: 2
-    forks_count: 0
+    stargazers_count: 67
+    forks_count: 3
   - owner:
       login: takuseno
-    name: ppo
-    description: Proximal Policy Optimization implementation with TensorFlow
-    stargazers_count: 78
-    forks_count: 21
+    name: minerva
+    description: An Out-of-the-box GUI Tool for Data-Driven Deep Reinforcement Learning.
+    stargazers_count: 20
+    forks_count: 1
   - owner:
       login: sony
     name: nnabla
     description: Neural Network Libraries
-    stargazers_count: 2.3k
-    forks_count: 291
+    stargazers_count: 2.4k
+    forks_count: 296
   - owner:
       login: takuseno
-    name: d4rl-pybullet 
+    name: d4rl-pybullet
     description: Datasets for Data-Driven Deep Reinforcement Learning with PyBullet environments
-    stargazers_count: 6
-    forks_count: 0
+    stargazers_count: 28
+    forks_count: 3
   - owner:
       login: takuseno
     name: d4rl-atari
     description: Datasets for Data-Driven Deep Reinforcement Learning with Atari (wrapper for datasets released by Google)
-    stargazers_count: 5
-    forks_count: 0
+    stargazers_count: 8
+    forks_count: 1
   - owner:
-      login: sony
-    name: nnabla-ext-cuda
-    description: A CUDA Extension of Neural Network Libraries
-    stargazers_count: 75
-    forks_count: 26
+      login: takuseno
+    name: ppo
+    description: Proximal Policy Optimization implementation with TensorFlow
+    stargazers_count: 83
+    forks_count: 21
 
 topics:
   - name: TensorFlow
