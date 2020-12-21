@@ -19,14 +19,14 @@ projects:
   - owner:
       login: takuseno
     name: d3rlpy
-    description: Data-Driven Deep Reinforcement Learning Library as an Out-of-the-box Tool.
-    stargazers_count: 67
-    forks_count: 3
+    description: Data-driven deep reinforcement learning library as an out-of-the-box tool.
+    stargazers_count: 97
+    forks_count: 11
   - owner:
       login: takuseno
     name: minerva
-    description: An Out-of-the-box GUI Tool for Data-Driven Deep Reinforcement Learning.
-    stargazers_count: 20
+    description: An out-of-the-box GUI tool for data-driven deep reinforcement learning.
+    stargazers_count: 26
     forks_count: 1
   - owner:
       login: sony
@@ -38,19 +38,19 @@ projects:
       login: takuseno
     name: d4rl-pybullet
     description: Datasets for Data-Driven Deep Reinforcement Learning with PyBullet environments
-    stargazers_count: 28
-    forks_count: 3
+    stargazers_count: 58
+    forks_count: 4
   - owner:
       login: takuseno
     name: d4rl-atari
     description: Datasets for Data-Driven Deep Reinforcement Learning with Atari (wrapper for datasets released by Google)
-    stargazers_count: 8
-    forks_count: 1
+    stargazers_count: 10
+    forks_count: 3
   - owner:
       login: takuseno
     name: ppo
     description: Proximal Policy Optimization implementation with TensorFlow
-    stargazers_count: 83
+    stargazers_count: 88
     forks_count: 21
 
 topics:
